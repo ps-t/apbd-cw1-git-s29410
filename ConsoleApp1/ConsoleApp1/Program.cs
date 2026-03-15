@@ -22,5 +22,5 @@ int CalculateMax(int[] values)
 
 int CalculateMin(int[] values)
 {
-    return 1;
+    return values.Min();
 }
